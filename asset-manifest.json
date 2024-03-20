@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_moose_gh/static/css/main.8646a7b7.css",
-    "main.js": "/react_moose_gh/static/js/main.0908aee4.js",
-    "index.html": "/react_moose_gh/index.html",
-    "main.8646a7b7.css.map": "/react_moose_gh/static/css/main.8646a7b7.css.map",
-    "main.0908aee4.js.map": "/react_moose_gh/static/js/main.0908aee4.js.map"
+    "main.css": "/frontal/static/css/main.8646a7b7.css",
+    "main.js": "/frontal/static/js/main.0908aee4.js",
+    "index.html": "/frontal/index.html",
+    "main.8646a7b7.css.map": "/frontal/static/css/main.8646a7b7.css.map",
+    "main.0908aee4.js.map": "/frontal/static/js/main.0908aee4.js.map"
   },
   "entrypoints": [
     "static/css/main.8646a7b7.css",
